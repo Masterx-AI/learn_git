@@ -23,5 +23,20 @@ git push
 
 
 # New Branch
+git checkout -b <branch_name>
+
 git branch <branch_name>
 git switch <branch_name>
+
+# Merge
+git merge
+
+# Delete Branch
+git branch -d <branch_name>
+
+
+# Reset
+git reset
+git revert
+
+git grep <str>
